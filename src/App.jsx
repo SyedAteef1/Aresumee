@@ -1,5 +1,5 @@
 
-import { Navbar } from './Components/navbar'
+import { Navbar } from './Components/Navbar'
 import HomePage from './Components/HomePage'
 import { BrowserRouter,Routes,Route } from 'react-router-dom'
 import Resume from './Components/resume'
